@@ -1,7 +1,7 @@
 # Final Project - Introduction to Computer Science and Programming Tri-Semester 2021
 
-Name: Nguyen Huu Minh Duc
-Class: 20CSE
+- Name: Nguyen Huu Minh Duc
+- Class: 20CSE
 
 
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AlexGamer29/Final-Project---Intro-to-CS/master) [![GitHub branches](https://badgen.net/github/branches/AlexGamer29/Final-Project---Intro-to-CS)](https://github.com/AlexGamer29/Final-Project---Intro-to-CS) [![GitHub commits](https://badgen.net/github/commits/AlexGamer29/Final-Project---Intro-to-CS)](https://GitHub.com/AlexGamer29/Final-Project---Intro-to-CS/commit/)
